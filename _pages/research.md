@@ -1,9 +1,9 @@
 ---
 layout: archieve
-title: Research Experience
+title: "Research Experience"
 permalink: /research/
+author_profile: true
 ---
-
 # Research Experience
 
-这里可以填写你的研究经验内容。
+
