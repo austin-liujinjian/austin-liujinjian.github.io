@@ -20,9 +20,10 @@ repository               : "austin-liujinjian/austin-liujinjian.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
+
   # Biographic information
-  avatar           : "profile.png"
   name             : "Jinjian LIU"
+  avatar           : "profile.png"
   pronouns         : # example: "she/her"  
   bio              : "Short biography"
   location         : "Chengdu, China"
