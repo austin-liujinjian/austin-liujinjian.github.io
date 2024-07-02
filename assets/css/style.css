@@ -1,7 +1,6 @@
 body {
-  background-image: url('/images/lake.jpg');
+  background-image: url('/assets/images/background-image.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
-
