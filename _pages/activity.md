@@ -12,5 +12,10 @@ I had the privilege of being advised by Professor Hugh Anderson and collaboratin
 
 ![Photo with Prof. Anderson](photo_with_hugh.png)
 
+<div style="text-align: center;">
+  <img src="photo_with_hugh.png" alt="Photo with Prof. Anderson" style="width: 300px;">
+</div>
+
+
 
 
