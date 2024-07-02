@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Education"
+title: "No Title"
 permalink: /cv/
 author_profile: true
 redirect_from:
