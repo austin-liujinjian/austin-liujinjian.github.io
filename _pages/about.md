@@ -1,16 +1,16 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I'm a third year undergraduate student from [School of EECS](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
+I'm a third year undergraduate student from [School of Computer Science](https://eecs.pku.edu.cn/), [Sichuan University](https://www.pku.edu.cn/), [Sichuan University ranked Top 15 in China and Top 150 in the world](https://www.shanghairanking.com/institution/sichuan-university). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
 
-I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
+Since 2022, I am advised by [Prof. Yue Ivan Wu](https://scholar.google.com/citations?user=3hAyJWwAAAAJ&hl=zh-CN) from College of Electronics and Information Engineering, Sichuan University. I was also fortunate to be advised by Prof. Kainam Thomas Wong from De La Salle University.
 
-You can find my CV here: [XX's Curriculum Vitae](../assets/CV-20240523-JJL.pdf).
+You can find my CV here: [JJL's Curriculum Vitae](../assets/CV-20240523-JJL.pdf).
 
-[Email](austin.liujinjian@gmail.com) / [Github](https://github.com/austin-liujinjian) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
+[Email](austin.liujinjian@gmail.com) / [Github](https://github.com/austin-liujinjian) / [Wechat](../images/wechat.jpg) 
