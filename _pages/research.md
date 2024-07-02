@@ -24,6 +24,8 @@ We focus on one specific attenna, Frequency diverse array (FDA), which:
 * Synthesis of a beam pattern that has resolution over range and direction.
 * With frequency offset at each antenna of the array.
 
+![geometry](wpt-geometry.png)
+
 Assume $N$ attennas employed,
 
 - The signal of the $n$-th antenna: $s_n(t) = b_n^* e^{j2\pi f_n t} w(0, T)$
