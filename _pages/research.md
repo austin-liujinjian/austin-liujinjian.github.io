@@ -28,21 +28,10 @@ Our objective is to optimize the weight vector and frequency offset for wireless
 
 - The signal of the \(n\)th antenna:
 
-$
-  \[
-  s_n(t) = b_n^* e^{j2\pi f_n t} w(0, T)
-  \]
-$
+$ s_n(t) = b_n^* e^{j2\pi f_n t} w(0, T)$
 
 - The frequency of the \(n\)th antenna:
-$
-  \[
-  f_n := f_c + \Delta f_n^{(f)}, \quad \forall n = 0, 1, \ldots, N-1
-  \]
-$
-
-
-$a+\underbrace{b+c}_{1.0}+d$
+$ f_n := f_c + \Delta f_n^{(f)}, \quad \forall n = 0, 1, \ldots, N-1 $
 
 
 
