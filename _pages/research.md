@@ -26,9 +26,9 @@ We focus on one specific attenna, Frequency diverse array (FDA), which:
 
 Assume $N$ attennas employed,
 
-- The signal of the \(n\)th antenna: $s_n(t) = b_n^* e^{j2\pi f_n t} w(0, T)$
+- The signal of the $n$-th antenna: $s_n(t) = b_n^* e^{j2\pi f_n t} w(0, T)$
 
-- The frequency of the \(n\)th antenna: $f_n := f_c + \Delta_{f_n}^{(f)}, \quad \forall n = 0, 1, \ldots, N-1$
+- The frequency of the $n$-th antenna: $f_n := f_c + \Delta_{f_n}^{(f)}, \quad \forall n = 0, 1, \ldots, N-1$
 
 where $b_n$ and $\Delta_{f_n}^{(f)}$ are the $n$-th attenna's weight and frequecy-offset, which are not prior known$.
 
