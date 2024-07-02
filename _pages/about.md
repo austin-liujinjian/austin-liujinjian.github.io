@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from [School of Computer Science](https://eecs.pku.edu.cn/), [Sichuan University](https://www.pku.edu.cn/), [Sichuan University ranked Top 15 in China and Top 150 in the world](https://www.shanghairanking.com/institution/sichuan-university). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
+I'm a third year undergraduate student from [School of Computer Science](https://eecs.pku.edu.cn/), [Sichuan University](https://www.pku.edu.cn/), Sichuan University ranked [Top 150 in the world](https://www.shanghairanking.com/institution/sichuan-university).  
 
 Since 2022, I am advised by [Prof. Yue Ivan Wu](https://scholar.google.com/citations?user=3hAyJWwAAAAJ&hl=zh-CN) from College of Electronics and Information Engineering, Sichuan University. I was also fortunate to be advised by Prof. Kainam Thomas Wong from De La Salle University.
 
