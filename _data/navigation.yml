@@ -6,18 +6,26 @@ main:
 
   # - title: "Teaching"
   #   url: /teaching/    
+ - title: "Education"
+    url: /cv/
     
   - title: "Research Experience"
     url: /research/
+    
+  - title: "Publications"
+    url: /publications/
 
+  - title: "Awards & Honors"
+    url: /awards/
+    
+  - title: "Activities"
+    url: /activity/
+    
   - title: "Publications"
     url: /publications/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
     
   # - title: "Guide"
   #   url: /markdown/
