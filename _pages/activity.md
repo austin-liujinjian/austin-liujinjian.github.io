@@ -14,11 +14,13 @@ I had the privilege of being advised by Professor Hugh Anderson and collaboratin
 
 
 ## IT Internship in Suncaper Company
+=========
 
 ## Summer Camps
+=========
 
-#2024.07.20-2024.07-24  School of Mathematics and Statistics, Xi'an Jiaotong University.
+*2024.07.20-2024.07-24  School of Mathematics and Statistics, Xi'an Jiaotong University.
 
-#2024.08.20-2024.08.22 School of Information Science and Engineering, South East University.
+*2024.08.20-2024.08.22 School of Information Science and Engineering, South East University.
 
 
