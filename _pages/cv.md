@@ -32,8 +32,8 @@ Courses(Selected)
 
 Language
 ======
-IELTS Test(Academic) score: 7.5(6.5), with 8.5 score Reading.
-[IELTS Test Report](../assets/IELTS TEST REPORT.pdf).
+**IELTS Test(Academic) score: 7.5(6.5)**, with 8.5 score Reading.  
+You can find my IELTS test outcome here: [IELTS Test Report](../assets/IELTS TEST REPORT.pdf).
 
 
   
