@@ -11,9 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S.E in Softeware Engineering, College of Computer Science, Sichuan University, 2025(expected)
-  ***GPA**: 3.77/4.00 overall, Weighted Average Mark: 88/100
+* **B.S.E in Software Engineering, College of Computer Science, Sichuan University, 2025 (expected)**
+  * **GPA**: 3.77/4.00 overall  
+    Weighted Average Mark: 88/100
   * You can find my Full Transcript here: [Transcript](../assets/Transcript.pdf).
+
 
 
 Courses(Selected)
