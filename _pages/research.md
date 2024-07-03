@@ -18,7 +18,7 @@ Since November 2022, under the guidance of Professor Y.I. Wu and Prof. Kainam Wo
 
 * <small><strong>How an Acoustic Velocity-Sensor’s Direction-Finding Precision is Affected by Angular Spreading of the Incident Source</strong></small>
 
-
+<br>
 ## 1. Range-Direction Beamforming for Wireless Power Transfer Project
 
 We focus on one specific attenna, Frequency diverse array (FDA), which:
