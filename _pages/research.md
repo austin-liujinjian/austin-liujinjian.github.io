@@ -38,9 +38,9 @@ Our objective is to optimize the attennas' weight and frequency offset for wirel
 
 My work includes the following points:
 
-* To design the power-on window \(\Tau_{\text{all}}\), which ensures that all signals arrive at the designated position during this time period.
+* To design the power-on window $\mathcal{T}_{\text{all}}$, which ensures that all signals arrive at the designated position during this time period.
 * To thoroughly design the optimization problem expression.
-* To simultaneously optimize \(b_n\) and \(\Delta_{f_n}^{(f)}\) using Matlab solvers such as `fmincon`, `ga` (genetic algorithm), etc.
+* To simultaneously optimize $b_n$ and $\Delta_{f_n}^{(f)}$ using Matlab solvers such as `fmincon`, `ga` (genetic algorithm), etc.
 
 The optimization problem is expressed as follows:
 
@@ -51,6 +51,9 @@ $$\begin{flalign}
 	& |{\bf b}^H \mathbf{v}(R_0, \theta_0; t)|^2 = 1, \quad \forall t \in \mathcal{T}_{\text{all}}, &\\
 	& {\bf \Delta}_{\text{lb}} \preceq {\bf \Delta} \preceq {\bf \Delta}_{\text{ub}},
 \end{flalign}$$
+
+![3D diagram](wpt-diagram.jpg)
+
 
 
 
