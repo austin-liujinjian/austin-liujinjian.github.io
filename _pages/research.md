@@ -44,10 +44,10 @@ My work includes the following points:
 
 The optimization problem is expressed as follows:
 
-$\begin{aligned}
+$$\begin{aligned}
 & \underset{b, \Delta_{f_n}^{(f)}}{\text{arg min}} \quad |b^H \mathbf{v}(R, \theta; t)|^2, \quad \{\forall (R, \theta) \notin \mathcal{S}_{\text{des}} \cap \forall t \in \Tau_{\text{all}}\} \cup \{\forall t \notin \Tau_{\text{all}}\}, \\
 & \text{s.t.} \quad 1 - \delta < |b^H \mathbf{v}(R, \theta; t)|^2 < 1 + \delta, \quad \{\forall (R, \theta) \in \mathcal{S}_{\text{des}} \cap \forall t \in \Tau_{\text{all}}\}
-\end{aligned}$
+\end{aligned}$$
 
 
 
