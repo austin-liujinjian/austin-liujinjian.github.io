@@ -44,16 +44,6 @@ My work includes the following points:
 
 The optimization problem is expressed as follows:
 
-$$ 
-\begin{aligned}
-    &\arg \min_{{\bf b}, {\bf \Delta}^{(f)}_n} |{\bf b}^H \mathbf{v}(R, \theta; t)|^2, \\
-    &\text{subject to:} \\
-    &\quad \left( \{ \forall (R, \theta) \notin \mathbb{S}_{\text{rx}} \} \cap \{ \forall t \in \mathcal{T}_{\text{all}} \} \right) \cup \{ \forall t \notin \mathcal{T}_{\text{all}} \}, \\
-    &\quad |{\bf b}^H \mathbf{v}(R_0, \theta_0; t)|^2 = 1, \quad \forall t \in \mathcal{T}_{\text{all}}, \\
-    &\quad {\bf \Delta}_{\text{lb}} \preceq {\bf \Delta} \preceq {\bf \Delta}_{\text{ub}},
-\end{aligned}
-$$
-
 
 ![3D diagram](wpt-diagram.png)
 
@@ -62,7 +52,7 @@ $$
 This project proposes a feasible and closed design method for cylindrical uniform sensor arrays by analyzing the trade-off between array volume and the measurement accuracy of horizontal and polar azimuth angles, in detail, we want to design paramters ${N, \Delta_{L}, R}$, to satisfy:
 
 (A) Achieving higher_ resolution for the source signal is reflected in lower values of the Cramer-Rao Bound (CRB), including CRB for the incident polar angle 
-(${\text{CRB}}_{\theta}$) and a (${\text{CRB}}_{\phi}$).
+($CRB_{\theta}$) and a ($CRB_{\phi}$).
 
 (B) Ease of application implies occupying a smaller volume and surface area, making it more convenient for deposit.
 
