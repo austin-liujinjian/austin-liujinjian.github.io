@@ -47,6 +47,10 @@ The optimization problem is expressed as follows:
 
 ![3D diagram](wpt-diagram.png)
 
+<p align="center">
+  <img src="wpt-diagram.png" alt="Array geometry" width="300"/>
+</p>
+
 # 2. Cylindrical Array Design to Optimize Polar-Azimuthal Direction-Finding Resolution Project
 
 This project proposes a feasible and closed design method for cylindrical uniform sensor arrays by analyzing the trade-off between array volume and the measurement accuracy of horizontal and polar azimuth angles, in detail, we want to design paramters ${N, \Delta_{L}, R}$, to satisfy:
