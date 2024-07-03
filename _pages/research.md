@@ -12,13 +12,11 @@ In July 2022, I was fortunately joining Professor Y.I. Wu's research team, and l
 
 Since November 2022, under the guidance of Professor Y.I. Wu and Prof. Kainam Wong, I have primarily participated in the following research projects:
 
-* <small><strong>Range-Direction Beamforming for Wireless Power Transfer</strong></small>
+* <span style="font-size: 16px; font-weight: bold;">Range-Direction Beamforming for Wireless Power Transfer</span>
 
-* <small><strong>Cylindrical Array Design to Optimize Polar-Azimuthal Direction-Finding Resolution</strong></small>
+* <span style="font-size: 16px; font-weight: bold;">Cylindrical Array Design to Optimize Polar-Azimuthal Direction-Finding Resolution</span>
 
-* <small><strong>How an Acoustic Velocity-Sensor’s Direction-Finding Precision is Affected by Angular Spreading of the Incident Source</strong></small>
-
-<br>
+* <span style="font-size: 16px; font-weight: bold;">How an Acoustic Velocity-Sensor’s Direction-Finding Precision is Affected by Angular Spreading of the Incident Source</span>  
 
 ## 1. Range-Direction Beamforming for Wireless Power Transfer Project
 
