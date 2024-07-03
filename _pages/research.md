@@ -45,11 +45,7 @@ My work includes the following points:
 The optimization problem is expressed as follows:
 
 
-![3D diagram](wpt-diagram.png)
-
-<p align="center">
-  <img src="wpt-diagram.png" alt="Array geometry" width="300"/>
-</p>
+![3D diagram](wpt-diagram.png){: width="100px" }
 
 # 2. Cylindrical Array Design to Optimize Polar-Azimuthal Direction-Finding Resolution Project
 
