@@ -45,7 +45,7 @@ My work includes the following points:
 
 The optimization problem is expressed as follows:
 
-$$ 
+$$
 \begin{aligned}
     &\arg \min_{{\bf b}, {\bf \Delta}^{(f)}_n} |{\bf b}^H \mathbf{v}(R, \theta; t)|^2, \\
     &\text{subject to:} \\
