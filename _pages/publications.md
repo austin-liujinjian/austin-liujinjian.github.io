@@ -1,16 +1,14 @@
 ---
 layout: archive
-title: "Publications"
+title: "Publications(expected)"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+As of July 3rd, 2024, one manuscript has been submitted and is currently under review. Additionally, two papers are being prepared and will hopefully be submitted soon.
 
-{% include base_path %}
+* **J. J. LIU**, K. T. WONG, and Y. I. WU*, "Cylindrical Array Design to Optimize Polar-Azimuthal Direction-Finding Resolution", SIGNAL PROCESSING. **(under review)**
+  
+* **J. J. LIU**, H. S. MIR, K. T. WONG, and Y. I. WU*, "Range-Direction Transmit Beamforming for Wireless Power Transfer" **(Preparing)**
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+* K. T. Wong, Andry Olenko, **J. J. LIU**, S. YANG, M. L. VELASCO, Y. I. WU*, "How a Bi-Axial Velocity-Sensor's Direction-Finding Precision is Affected by Angular Spreading of the Incident Source" **(Preparing)**
