@@ -18,6 +18,3 @@ Since 2022, I have been advised by [Prof. Yue Ivan Wu](https://scholar.google.co
 
 
 I am now persuing for a PhD position with scholarship, you can find my CV here: [Curriculum Vitae](../assets/CV-20240523-JJL.pdf).
-
-
-[Email](austin.liujinjian@gmail.com) / [Github](https://github.com/austin-liujinjian) / [Wechat](../images/wechat.jpg) 
