@@ -18,7 +18,7 @@ Since November 2022, under the joint supervision of Professor Y.I. Wu and Prof. 
 
 **How an Acoustic Velocity-Sensor’s Direction-Finding Precision is Affected by Angular Spreading of the Incident Source**
 
-# Range-Direction Beamforming for Wireless Power Transfer Project
+# 1. Range-Direction Beamforming for Wireless Power Transfer Project
 
 We focus on one specific attenna, Frequency diverse array (FDA), which:
 * Synthesis of a beam pattern that has resolution over range and direction.
@@ -35,6 +35,22 @@ Assume $N$ attennas employed,
 where $b_n$ and $\Delta_{f_n}^{(f)}$ are the $n$-th attenna's weight and frequecy-offset, which are not prior known$.
 
 Our objective is to optimize the attennas' weight and frequency offset for wireless power transfer to a specific position. This optimization is particularly beneficial for near-field wireless transfer applications, such as smartphone charging.
+
+My work includes the following points:
+
+* To design the power-on window \(\Tau_{\text{all}}\), which ensures that all signals arrive at the designated position during this time period.
+* To thoroughly design the optimization problem expression.
+* To simultaneously optimize \(b_n\) and \(\Delta_{f_n}^{(f)}\) using Matlab solvers such as `fmincon`, `ga` (genetic algorithm), etc.
+
+The optimization problem is expressed as follows:
+
+$$
+\begin{aligned}
+& \underset{b, \Delta_{f_n}^{(f)}}{\text{arg min}} \quad |b^H \mathbf{v}(R, \theta; t)|^2, \quad \{\forall (R, \theta) \notin \mathcal{S}_{\text{des}} \cap \forall t \in \Tau_{\text{all}}\} \cup \{\forall t \notin \Tau_{\text{all}}\}, \\
+& \text{s.t.} \quad 1 - \delta < |b^H \mathbf{v}(R, \theta; t)|^2 < 1 + \delta, \quad \{\forall (R, \theta) \in \mathcal{S}_{\text{des}} \cap \forall t \in \Tau_{\text{all}}\}
+\end{aligned}
+$$
+
 
 
 
