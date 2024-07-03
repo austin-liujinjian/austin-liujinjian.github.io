@@ -43,17 +43,6 @@ My work includes the following points:
 * Design the optimization problem expression detailedly.
 * Simultaneously optimize $b_n$ and $\Delta_{f_n}^{(f)}$ using Matlab solvers such as `fmincon`, `ga` (genetic algorithm), etc.
 
-The optimization problem is expressed as follows:
-
-$$
-\begin{aligned}
-    &\arg \min_{{\bf b}, {\bf \Delta}^{(f)}_n} |{\bf b}^H \mathbf{v}(R, \theta; t)|^2, \\
-    &\text{subject to:} \\
-    &\quad \left( \{ \forall (R, \theta) \notin \mathbb{S}_{\text{rx}} \} \cap \{ \forall t \in \mathcal{T}_{\text{all}} \} \right) \cup \{ \forall t \notin \mathcal{T}_{\text{all}} \}, \\
-    &\quad |{\bf b}^H \mathbf{v}(R_0, \theta_0; t)|^2 = 1, \quad \forall t \in \mathcal{T}_{\text{all}}, \\
-    &\quad {\bf \Delta}_{\text{lb}} \preceq {\bf \Delta} \preceq {\bf \Delta}_{\text{ub}},
-\end{aligned}
-$$
 
 ![3D diagram](wpt-diagram.png){: width="400px" }
 
