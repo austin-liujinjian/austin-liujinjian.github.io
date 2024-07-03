@@ -39,5 +39,5 @@ You can find my IELTS Test Report Form here: [IELTS Test Report](../assets/IELTS
   
 Service and leadership
 ======
-* Since 2021, I was served as the core-leader of class, in College of Computer Science.
-* From 2022 to 2023, I was an associate president of "Cheng" union, led weekly Philosophy reading activities , in Philosophy College of Sichuan University.
+* Since 2021, I was served as the core-leader of class, in the College of Computer Science at Sichuan University.
+* From 2022 to 2023, I was an associate president of "Cheng" union, leading weekly Philosophy reading activities, in the Department of Philosophy at Sichuan University.
