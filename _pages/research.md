@@ -18,6 +18,7 @@ Since November 2022, under the joint supervision of Professor Y.I. Wu and Prof. 
 
 **How an Acoustic Velocity-Sensor’s Direction-Finding Precision is Affected by Angular Spreading of the Incident Source**
 
+
 # 1. Range-Direction Beamforming for Wireless Power Transfer Project
 
 We focus on one specific attenna, Frequency diverse array (FDA), which:
@@ -38,9 +39,9 @@ Our objective is to optimize the attennas' weight and frequency offset for wirel
 
 My work includes the following points:
 
-* To design the power-on window $\mathcal{T}_{\text{all}}$, which ensures that all signals arrive at the designated position during this time period.
-* To thoroughly design the optimization problem expression.
-* To simultaneously optimize $b_n$ and $\Delta_{f_n}^{(f)}$ using Matlab solvers such as `fmincon`, `ga` (genetic algorithm), etc.
+* Design the power-on window $\mathcal{T}_{\text{all}}$, which ensures that all signals arrive at the designated position during this time period.
+* Design the optimization problem expression detailedly.
+* Simultaneously optimize $b_n$ and $\Delta_{f_n}^{(f)}$ using Matlab solvers such as `fmincon`, `ga` (genetic algorithm), etc.
 
 The optimization problem is expressed as follows:
 
@@ -57,6 +58,23 @@ This project proposes a feasible and closed design method for cylindrical unifor
 (B) Ease of application implies occupying a smaller volume and surface area, making it more convenient for deposit.
 
 ![Array geometry](crb-geometry.png){: width="400px" }
+
+My work includes the following points:
+
+* Derive the Cramer-Rao bound from the array manifold.
+* Propose a closed-form design procedure.
+* Create graphs, writing in LaTeX, and other related tasks.
+
+
+
+
+# 3. How an Acoustic Velocity-Sensor’s Direction-Finding Precision is Affected by Angular Spreading of the Incident Source Project
+
+This project consists two sub-projects:
+
+### a) How a Bi-Axial Velocity-Sensor's Direction-Finding Precision is Affected by Angular Spreading of the Incident Source
+
+### b) How a Tri-Axial Velocity-Sensor's Direction-Finding Precision is Affected by Angular Spreading of the Incident Source
 
 
 
