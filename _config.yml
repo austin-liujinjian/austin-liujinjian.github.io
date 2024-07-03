@@ -383,3 +383,14 @@ kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
 
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-EFZLZTRM1C"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-EFZLZTRM1C');
+</script>
+
