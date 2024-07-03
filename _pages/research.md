@@ -60,9 +60,8 @@ This project proposes a feasible and closed design method for cylindrical unifor
 
 (B) Ease of application implies occupying a smaller volume and surface area, making it more convenient for deposit.
 
-<p align="center">
-  <img src="crb-geometry.png" alt="Array geometry" width="300"/>
-</p>
+![Array geometry](crb-geometry.png){: width="300px" }
+
 
 
 
