@@ -57,7 +57,16 @@ $$
 
 ![3D diagram](wpt-diagram.png)
 
-# 2. Cylindrical Array Design to Optimize Polar-Azimuthal Direction-Finding Resolution
+# 2. Cylindrical Array Design to Optimize Polar-Azimuthal Direction-Finding Resolution Project
+
+This project proposes a feasible and closed design method for cylindrical uniform sensor arrays by analyzing the trade-off between array volume and the measurement accuracy of horizontal and polar azimuth angles, in detail, we want to design paramters ${N, \Delta_{L}, R}$, to satisfy:
+
+(A) Achieving higher_ resolution for the source signal is reflected in lower values of the Cramer-Rao Bound (CRB), including CRB for the incident polar angle 
+(${\text{CRB}}_{\theta}$) and a (${\text{CRB}}_{\phi}$).
+
+(B) Ease of application implies occupying a smaller volume and surface area, making it more convenient for deposit.
+
+
 
 
 
