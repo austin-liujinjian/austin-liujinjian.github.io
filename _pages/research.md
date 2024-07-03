@@ -12,11 +12,11 @@ In July 2022, I was fortunately joining Professor Y.I. Wu's research team, led t
 
 Since November 2022, under the joint supervision of Professor Y.I. Wu and Prof. Kainam Wong, I have primarily participated in and completed the following research projects:
 
-**Range-Direction Beamforming for Wireless Power Transfer**
+* Range-Direction Beamforming for Wireless Power Transfer
 
-**Cylindrical Array Design to Optimize Polar-Azimuthal Direction-Finding Resolution**
+* Cylindrical Array Design to Optimize Polar-Azimuthal Direction-Finding Resolution
 
-**How an Acoustic Velocity-Sensor’s Direction-Finding Precision is Affected by Angular Spreading of the Incident Source**
+* How an Acoustic Velocity-Sensor’s Direction-Finding Precision is Affected by Angular Spreading of the Incident Source
 
 
 # 1. Range-Direction Beamforming for Wireless Power Transfer Project
@@ -69,11 +69,20 @@ My work includes the following points:
 
 # 3. How an Acoustic Velocity-Sensor’s Direction-Finding Precision is Affected by Angular Spreading of the Incident Source Project
 
-This project consists two sub-projects:
+This project primarily investigated the impact of incident source angle deviation on direction-finding accuracy for two or three superimposed figure-8 sensors and(or without) a pressure sensor under different placement methods. 
+
+This project consists two sub-projects, corresponds to two different different placement methods of sensors:
 
 ### a) How a Bi-Axial Velocity-Sensor's Direction-Finding Precision is Affected by Angular Spreading of the Incident Source
 
 ### b) How a Tri-Axial Velocity-Sensor's Direction-Finding Precision is Affected by Angular Spreading of the Incident Source
+
+In the above two sub-projects, my work includes the following points:
+
+* Deriving the Fisher Information Matrix and Cramer-Rao bound from the array manifold, with respect to the known/unknown variance of elevation and azimuth angles a priori.
+* Analyzing and explaining the trend of the Cramer-Rao bound with varying variance of noise, elevation angle, etc.
+* Creating graphs, writing in LaTeX, and performing other related tasks.
+
 
 
 
