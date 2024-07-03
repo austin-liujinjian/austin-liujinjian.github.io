@@ -8,18 +8,18 @@ author_profile: true
 
 # Overview
 
-In July 2022, I was fortunately joining Professor Y.I. Wu's research team, led the 2022-2023 university-level innovation project "Binaural Sound Source Localization Research," which was rated "Good"(Top 25%).
+In July 2022, I was fortunately joining Professor Y.I. Wu's research team, and led the 2022-2023 university-level innovation project "Binaural Sound Source Localization Research," which was rated "Good"(Top 25%) in the end.
 
-Since November 2022, under the guidance of Professor Y.I. Wu and Prof. Kainam Wong, I have primarily participated in and completed the following research projects:
+Since November 2022, under the guidance of Professor Y.I. Wu and Prof. Kainam Wong, I have primarily participated in the following research projects:
 
-* Range-Direction Beamforming for Wireless Power Transfer
+* <small><strong>Range-Direction Beamforming for Wireless Power Transfer</strong></small>
 
-* Cylindrical Array Design to Optimize Polar-Azimuthal Direction-Finding Resolution
+* <small><strong>Cylindrical Array Design to Optimize Polar-Azimuthal Direction-Finding Resolution</strong></small>
 
-* How an Acoustic Velocity-Sensor’s Direction-Finding Precision is Affected by Angular Spreading of the Incident Source
+* <small><strong>How an Acoustic Velocity-Sensor’s Direction-Finding Precision is Affected by Angular Spreading of the Incident Source</strong></small>
 
 
-# 1. Range-Direction Beamforming for Wireless Power Transfer Project
+## 1. Range-Direction Beamforming for Wireless Power Transfer Project
 
 We focus on one specific attenna, Frequency diverse array (FDA), which:
 * Synthesis of a beam pattern that has resolution over range and direction.
@@ -57,7 +57,7 @@ $$
 
 ![3D diagram](wpt-diagram.png){: width="400px" }
 
-# 2. Cylindrical Array Design to Optimize Polar-Azimuthal Direction-Finding Resolution Project
+## 2. Cylindrical Array Design to Optimize Polar-Azimuthal Direction-Finding Resolution Project
 
 This project proposes a feasible and closed design method for cylindrical uniform sensor arrays by analyzing the trade-off between array volume and the measurement accuracy of horizontal and polar azimuth angles, in detail, we want to design paramters ${N, \Delta_{L}, R}$, to satisfy:
 
@@ -75,12 +75,11 @@ My work includes the following points:
 
 
 
-
-# 3. How an Acoustic Velocity-Sensor’s Direction-Finding Precision is Affected by Angular Spreading of the Incident Source Project
+## 3. How an Acoustic Velocity-Sensor’s Direction-Finding Precision is Affected by Angular Spreading of the Incident Source Project
 
 This project primarily investigated the impact of incident source angle deviation on direction-finding accuracy for two or three superimposed figure-8 sensors and(or without) a pressure sensor under different placement methods. 
 
-This project consists two sub-projects, corresponds to two different different placement methods of sensors:
+Two sub-projects are consisted in this project, corresponds to two different different placement methods of sensors respectively:
 
 ### a) How a Bi-Axial Velocity-Sensor's Direction-Finding Precision is Affected by Angular Spreading of the Incident Source
 
