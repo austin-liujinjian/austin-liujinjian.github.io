@@ -19,7 +19,8 @@ Our group work culminated in the production of a paper and a poster, which can b
 * 2024.07.20-2024.07-24  School of Information Science and Engineering, South East University.
 
 
-![Photo with Prof. Anderson](photo_with_hugh.png){: width="400px" }
+![Photo with Prof. Anderson](photo_with_hugh.png){: width="400px" }  
+
 (Photo with guidance Professor Anderson, in NUS summer sorkshop)
 
 
