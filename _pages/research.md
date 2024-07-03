@@ -24,7 +24,7 @@ We focus on one specific attenna, Frequency diverse array (FDA), which:
 * Synthesis of a beam pattern that has resolution over range and direction.
 * With frequency offset at each antenna of the array.
 
-![geometry](wpt-geometry.png)
+![geometry](wpt-geometry.png){: width="400px" }
 
 Assume $N$ attennas employed,
 
@@ -45,7 +45,7 @@ My work includes the following points:
 The optimization problem is expressed as follows:
 
 
-![3D diagram](wpt-diagram.png){: width="100px" }
+![3D diagram](wpt-diagram.png){: width="400px" }
 
 # 2. Cylindrical Array Design to Optimize Polar-Azimuthal Direction-Finding Resolution Project
 
@@ -56,7 +56,7 @@ This project proposes a feasible and closed design method for cylindrical unifor
 
 (B) Ease of application implies occupying a smaller volume and surface area, making it more convenient for deposit.
 
-![Array geometry](crb-geometry.png){: width="300px" }
+![Array geometry](crb-geometry.png){: width="400px" }
 
 
 
