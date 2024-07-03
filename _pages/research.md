@@ -44,15 +44,17 @@ My work includes the following points:
 
 The optimization problem is expressed as follows:
 
-$$\begin{flalign}
-	& \arg \min_{{\bf b}, {\bf \Delta}^{(f)}_n} |{\bf b}^H \mathbf{v}(R, \theta; t)|^2, \quad 
-		\{ \{ \forall (R, \theta) \notin \mathbb{S}_{\text{rx}} \} \cap \{ \forall t \in \mathcal{T}_{\text{all}} \}\} \cup \{ \forall t \notin \mathcal{T}_{\text{all}} \}, &\\
-	\text{s.t.} \quad 
-	& |{\bf b}^H \mathbf{v}(R_0, \theta_0; t)|^2 = 1, \quad \forall t \in \mathcal{T}_{\text{all}}, &\\
-	& {\bf \Delta}_{\text{lb}} \preceq {\bf \Delta} \preceq {\bf \Delta}_{\text{ub}},
-\end{flalign}$$
+$$
+\begin{aligned}
+    &\arg \min_{{\bf b}, {\bf \Delta}^{(f)}_n} |{\bf b}^H \mathbf{v}(R, \theta; t)|^2, \\
+    &\text{subject to:} \\
+    &\quad \left( \{ \forall (R, \theta) \notin \mathbb{S}_{\text{rx}} \} \cap \{ \forall t \in \mathcal{T}_{\text{all}} \} \right) \cup \{ \forall t \notin \mathcal{T}_{\text{all}} \}, \\
+    &\quad |{\bf b}^H \mathbf{v}(R_0, \theta_0; t)|^2 = 1, \quad \forall t \in \mathcal{T}_{\text{all}}, \\
+    &\quad {\bf \Delta}_{\text{lb}} \preceq {\bf \Delta} \preceq {\bf \Delta}_{\text{ub}},
+\end{aligned}
+$$
 
-![3D diagram](wpt-diagram.jpg)
+![3D diagram](wpt-diagram.png)
 
 
 
