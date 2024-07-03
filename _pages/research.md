@@ -44,10 +44,13 @@ My work includes the following points:
 
 The optimization problem is expressed as follows:
 
-$$\begin{aligned}
-& \underset{b, \Delta_{f_n}^{(f)}}{\text{arg min}} \quad |b^H \mathbf{v}(R, \theta; t)|^2, \quad \{\forall (R, \theta) \notin \mathcal{S}_{\text{des}} \cap \forall t \in \Tau_{\text{all}}\} \cup \{\forall t \notin \Tau_{\text{all}}\}, \\
-& \text{s.t.} \quad 1 - \delta < |b^H \mathbf{v}(R, \theta; t)|^2 < 1 + \delta, \quad \{\forall (R, \theta) \in \mathcal{S}_{\text{des}} \cap \forall t \in \Tau_{\text{all}}\}
-\end{aligned}$$
+$$\begin{flalign}
+	& \arg \min_{{\bf b}, {\bf \Delta}^{(f)}_n} |{\bf b}^H \mathbf{v}(R, \theta; t)|^2, \quad 
+		\{ \{ \forall (R, \theta) \notin \mathbb{S}_{\text{rx}} \} \cap \{ \forall t \in \mathcal{T}_{\text{all}} \}\} \cup \{ \forall t \notin \mathcal{T}_{\text{all}} \}, &\\
+	\text{s.t.} \quad 
+	& |{\bf b}^H \mathbf{v}(R_0, \theta_0; t)|^2 = 1, \quad \forall t \in \mathcal{T}_{\text{all}}, &\\
+	& {\bf \Delta}_{\text{lb}} \preceq {\bf \Delta} \preceq {\bf \Delta}_{\text{ub}},
+\end{flalign}$$
 
 
 
