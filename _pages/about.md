@@ -17,7 +17,7 @@ I'm LIU Jinjian(刘劲见), an undergraduate student from [School of Computer Sc
 Since 2022, I have been advised by [Prof. Yue Ivan Wu](https://scholar.google.com/citations?user=3hAyJWwAAAAJ&hl=zh-CN) from College of Electronics and Information Engineering, Sichuan University. Additionally, I have had the privilege of being advised by [Prof. Kainam Thomas Wong](https://ieeexplore.ieee.org/author/37278684000).
 
 
-<p style="color:blue;">I am actively seeking PhD/Mphil positions with scholarship beginning in Fall 2025, please contact me if you have a position!" style="color:blue;">Curriculum Vitae</a>.</p>
+<p style="color:blue;">I am actively seeking PhD/Mphil positions with scholarship beginning in Fall 2025, please contact me if you have a position!"</p>
 
 
 [Email](austin.liujinjian@gmail.com)/[CV](../assets/CV-20240523-JJL.pdf)/[Transcript](../assets/CV-20240523-JJL.pdf)
