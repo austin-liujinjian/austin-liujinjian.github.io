@@ -13,7 +13,7 @@ Education
 ======
 * **B.S.E in Software Engineering, College of Computer Science, Sichuan University, Sep. 2021 - Jun. 2025 (expected)**
   * **GPA**: 3.77/4.00 overall  
-    Weighted Average Mark: 88/100
+    **Weighted Average Mark**: 88/100
   * You can find my Full Transcript here: [Transcript](../assets/Transcript.pdf).
 * **High School, Chengdu Foreigh Language School, Sep. 2018 - Jun. 2021**
 
@@ -23,11 +23,11 @@ Courses(Selected)
 * Calculus: A-
 * Linear Algebra: A
 * Probability Theory and Statistics：A-
-* Discrete Mathematics: A-
 * Graph Theory: A
 * Digital Image Processing：A+
 * Computer Graphics：A
 * Computer Architecture：A
+* Operating System: A
   ...
 
 Language
