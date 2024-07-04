@@ -10,7 +10,7 @@ redirect_from:
 
 
 <br>
-Hello! 
+Hello~  
   
 I'm Jinjian LIU(刘劲见), an undergraduate student from [School of Computer Science](https://cs.scu.edu.cn/) at [Sichuan University](https://www.scu.edu.cn/), which is ranked among the [Top 150 universities globally according to ARWU 2023](https://www.shanghairanking.com/institution/sichuan-university).  
 
