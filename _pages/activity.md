@@ -21,6 +21,5 @@ Our group work culminated in the production of a paper and a poster, which can b
 
 ![Photo with Prof. Anderson](photo_with_hugh.png){: width="400px" }  
 
-(Photo with Prof. Anderson, in NUS summer sorkshop)
-
+<span style="font-size: 16px; font-weight: bold;">Photo with guidence Prof. Anderson, in NUS summer workshop</span>
 
