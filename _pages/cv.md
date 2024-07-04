@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * **B.S.E in Software Engineering, College of Computer Science, Sichuan University, Sep. 2021 - Jun. 2025 (expected)**
-  * **GPA**: 3.77/4.00 overall  
-    **Weighted Average Mark**: 88/100
+  * **GPA**: 3.76/4.00 overall  
+    **Weighted Average Mark**: 88.3/100 overall
   * You can find my Full Transcript here: [Transcript](../assets/Transcript.pdf).
 * **High School, Chengdu Foreigh Language School, Sep. 2018 - Jun. 2021**
 
@@ -32,7 +32,7 @@ Courses(Selected)
 
 Language
 ======
-**IELTS Test(Academic) score: 7.5(6.5)**, with 8.5 score Reading.  
+**IELTS Test(Academic) score: 7.5(6.5)**, with 8.5 score in Reading.  
 You can find my IELTS Test Report Form here: [IELTS Test Report](../assets/IELTS TEST REPORT.pdf).
 
 
