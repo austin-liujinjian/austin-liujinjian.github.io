@@ -19,4 +19,4 @@ Since 2022, I have been advised by [Prof. Yue Ivan Wu](https://scholar.google.co
 
 <p style="color:blue; font-size: 20px; font-weight: bold;">I am currently seeking PhD positions with scholarship starting in 2025 Fall!</p>
 
-[Email](austin.liujinjian@gmail.com)/[Curriculum Vitae](../assets/CV-20240703-JJL.pdf)
+[Email](austin.liujinjian@gmail.com)/[Curriculum Vitae](../assets/CV-2024-07-03-JJL.pdf)
