@@ -19,7 +19,7 @@ Since 2022, I have been advised by [Prof. Yue Ivan Wu](https://scholar.google.co
 My My research interest are broad, mainly includes:
 
 <p style="color:blue; font-size: 16px; font-weight: bold;">
-signal processing, wireless communication, optimization, statistical analysis, deep learning and other AI related areas. And I am always inspired to explore and learn more about other areas
+Signal Processing, Wreless Communication, Optimization, Statistical Aalysis, Deep Learning and other AI related areas. And I am always inspired to explore and learn more about other new areas.
 </p>
 
 
