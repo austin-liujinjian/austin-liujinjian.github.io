@@ -14,7 +14,7 @@ I'm Jinjian LIU(刘劲见), currently an undergraduate student from [School of C
 
 Since 2022, I have been advised by [SMIEEE, Prof. Yue Ivan Wu](https://scholar.google.com/citations?user=3hAyJWwAAAAJ&hl=zh-CN) from College of Electronics and Information Engineering, Sichuan University, and have had the privilege of working with and being guidenced by [SMIEEE, Prof. Kainam Thomas Wong](https://ieeexplore.ieee.org/author/37278684000). 
 
-My research interests are broad, includeing but not limited to:
+My research interests are broad, including but not limited to:
 
 ***Optimization, Signal Processing, Wireless Communications, Statistical Analysis, Deep Learning and other AI related areas.***
 
