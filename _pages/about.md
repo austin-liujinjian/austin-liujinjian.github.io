@@ -16,12 +16,14 @@ Since 2022, I have been advised by [Prof. Yue Ivan Wu](https://scholar.google.co
 
 My research interest are broad, mainly includes:
 
-*Signal Processing, Wireless Communication, Optimization, Statistical Aalysis, Deep Learning and other AI related areas.* ***And I am always inspired to explore and learn more about other new areas.*
+***Signal Processing, Wireless Communication, Optimization, Statistical Aalysis, Deep Learning and other AI related areas.***
 
+And I am always inspired to explore and learn more about other new areas！
 
+<!--
 <p style="color:blue; font-size: 20px; font-weight: bold;">
 I am currently seeking PhD/MPhil positions with scholarship starting in Fall 2025! Please contact me if there're any availble positions.
 </p>
-
+-->
 
 [Email](austin.liujinjian@gmail.com)/[Curriculum Vitae](../assets/Curriculum Vitae-JJL.pdf)
