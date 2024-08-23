@@ -26,4 +26,4 @@ I am currently seeking PhD/MPhil positions with scholarship starting in Fall 202
 </p>
 -->
 
-[Email](austin.liujinjian@gmail.com) / [CV](../assets/Curriculum Vitae-JJL.pdf)
+You can find my [CV](../assets/Curriculum Vitae-JJL.pdf) here~
