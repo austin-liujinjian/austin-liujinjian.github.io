@@ -14,9 +14,7 @@ Our group work culminated in the production of a programe paper and a poster, wh
 
 ## Summer Camps
 
-* 2024.07.20-2024.07-24  School of Mathematics and Statistics, Xi'an Jiaotong University.
-
-* 2024.07.20-2024.07-24  School of Information Science and Engineering, South East University.
+* 2024.07.20-2024.07-24  School of Mathematics and Statistics, Xi'an Jiaotong University. (Excellent Camper)
 
 
 ![Photo with Prof. Anderson](photo_with_hugh.png){: width="400px" }  
