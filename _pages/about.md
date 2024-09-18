@@ -16,7 +16,7 @@ Since 2022, I have been advised by [SMIEEE, Prof. Yue Ivan Wu](https://scholar.g
 
 My research interests include:
 
-***Optimization, Signal Processing, Wireless Communications, Statistical Analysis, Deep Learning and other AI related areas.***
+***Optimization, Signal Processing, Wireless Communications, Network, Deep Learning and other AI related areas.***
 
 And I am always inspired to explore and learn more about other new areas！
 
