@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-As of Nov. 20, 2024, 
+As of Nov. 20, 2024
 
 *Journal Paper*
 
