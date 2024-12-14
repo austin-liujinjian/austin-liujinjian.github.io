@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome!"
+title: "Welcome"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <br>
-Hello~  
+Hi!
   
 I'm Jinjian LIU(刘劲见), currently an undergraduate student from [School of Computer Science](https://cs.scu.edu.cn/) at [Sichuan University](https://www.scu.edu.cn/), which is ranked among the [Top 100 globally according to ARWU 2024](https://www.shanghairanking.com/institution/sichuan-university).  
 
@@ -28,4 +28,4 @@ I am currently seeking PhD/MPhil positions with scholarship starting in Fall 202
 </p>
 -->
 
-You can find my [CV](../assets/Curriculum Vitae-JJL.pdf) here~
+You can find my [CV](../assets/Curriculum Vitae-JJL.pdf) here, and for more information about myself, you can click the options in the top bar, Thanks a lot!
