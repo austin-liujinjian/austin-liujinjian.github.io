@@ -6,15 +6,17 @@ author_profile: true
 ---
 
 
-Awards & Honors (selected)
+Awards(*selected*)
 ===============
 
-* Oct. 2022: **Awarded Comprehensive Scholarship of Sichuan University.**
-* Oct. 2022: **Awared the "Excellent student leader in Sichuan University".**
-* Jul. 2023: **Awared the certificate for completing the Summer Workshop at the School of Computing, NUS.**
-* Oct. 2023: **Awarded Comprehensive Scholarship of Sichuan University.**
-* Oct. 2023: **Awared the "Excellent student leader in Sichuan University".**
-* Dec. 2023: **Awarded the "Zili-Zhidong" Comprehensive Scholarship.** *(Top 0.5% of the college)*
-* Mar. 2024: **Awared the Top-8 student using library resources over *All* Engineering schools of Sichuan University.**
+* Excellent graduate in Sichuan University, 2025 *(top 5%)*
+* Elected as the top 8 student using library resources over *All* Engineering schools of Sichuan University, 2024
+* Excellent student in Sichuan University, 2023 & 2024 *(top 5%)*
+* "Zili-Zhidong" Comprehensive Scholarship, 2023 *(sole winner of the college)*
+* Comprehensive Scholarship of Sichuan University, 2022 & 2023 *(top 10%)*
+* Excellent student leader in Sichuan University, 2022 *(top 5%)*
+
+
+
 
  
