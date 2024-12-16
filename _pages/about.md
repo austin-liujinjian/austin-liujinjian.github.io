@@ -28,4 +28,4 @@ I am currently seeking PhD/MPhil positions with scholarship starting in Fall 202
 </p>
 -->
 
-You can find my [CV](../assets/Curriculum Vitae-JJL.pdf) here, and for more information about myself, you can click the options in the top bar, Thanks a lot!
+You can find my [CV](../assets/Curriculum Vitae-JJL.pdf) here. For more information about me, please explore the options in the navigation bar above. Thank you!
