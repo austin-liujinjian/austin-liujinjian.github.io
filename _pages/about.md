@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 <br>
-Hi!
+Hi, welcome to my homepage!
   
-I'm Jinjian LIU(刘劲见), currently an undergraduate student from [School of Computer Science](https://cs.scu.edu.cn/) at [Sichuan University](https://www.scu.edu.cn/), which is ranked among the [Top 100 globally according to ARWU 2024](https://www.shanghairanking.com/institution/sichuan-university).  
+I'm Jinjian LIU(刘劲见), born and grew up in Chengdu, China. I am currently an final-year undergraduate student from [School of Computer Science](https://cs.scu.edu.cn/) at [Sichuan University](https://www.scu.edu.cn/).
 
 Since 2022, I have been advised by [SMIEEE, Prof. Yue Ivan Wu](https://scholar.google.com/citations?user=3hAyJWwAAAAJ&hl=en&oi=ao) from College of Electronics and Information Engineering, Sichuan University, and have had the privilege of working with and being guidenced by [SMIEEE, Prof. Kainam Thomas Wong](https://www.scopus.com/authid/detail.uri?authorId=7404759216). 
 
@@ -28,4 +28,6 @@ I am currently seeking PhD/MPhil positions with scholarship starting in Fall 202
 </p>
 -->
 
-You can find my [CV](../assets/Curriculum Vitae-JJL.pdf) here. For more information about me, please explore the options in the navigation bar above. Thank you!
+You can find my [CV](../assets/Curriculum Vitae-JJL.pdf) here. For more information about me, you can explore the options in the navigation bar above. Thank you!
+
+Email: austin.liujinjian@gmail.com
