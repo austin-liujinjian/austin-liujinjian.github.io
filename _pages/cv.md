@@ -31,7 +31,8 @@ Courses(Selected)
 
 Language
 ======
-**IELTS Test(Academic) score: 7.5(6.5)**, with 8.5 score in Reading.  
+* Native in Chinese.
+* Fluent in English, I've gained an IELTS score of 7.5(overall), with sub-score 6.5, on May 2024.
 
 <!--
 Service and leadership
