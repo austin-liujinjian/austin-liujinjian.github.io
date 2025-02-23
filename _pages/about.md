@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 <br>
+<font face="Calibri">
 Hi, welcome to my homepage!
 
   
@@ -33,4 +34,8 @@ You can find my [CV](../assets/Curriculum Vitae-JJL.pdf) here, and please feel f
 <p style="color:blue">
 Email: austin.liujinjian@gmail.com
 </p>
+
+
+
+</font>
 
