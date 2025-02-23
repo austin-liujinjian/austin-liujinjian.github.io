@@ -11,7 +11,7 @@ redirect_from:
 Hi, welcome to my homepage!
 
   
-I'm Jinjian LIU(刘劲见<font face="楷体">刘劲见</font>), born and grew up in Chengdu, China. I am currently a final-year undergraduate student from [School of Computer Science](https://cs.scu.edu.cn/) at [Sichuan University](https://www.scu.edu.cn/).
+I'm Jinjian LIU(<font face="楷体">刘劲见</font>), born and grew up in Chengdu, China. I am currently a final-year undergraduate student from [School of Computer Science](https://cs.scu.edu.cn/) at [Sichuan University](https://www.scu.edu.cn/).
 
 Since 2022, I have been advised by [SMIEEE, Prof. Yue Ivan Wu](https://scholar.google.com/citations?user=3hAyJWwAAAAJ&hl=en&oi=ao) from College of Electronics and Information Engineering, Sichuan University, and have had the privilege of working with and being guidenced by [SMIEEE, Prof. Kainam Thomas Wong](https://scholar.google.com/citations?user=kCs2aSQAAAAJ&view_op=list_works&sortby=pubdate). 
 
