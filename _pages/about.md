@@ -35,9 +35,11 @@ You can find my [CV](../assets/Curriculum Vitae-JJL.pdf) here, and please feel f
 Email: austin.liujinjian@gmail.com
 </p>
 -->
-## News  
+
+<strong style="color: red; font-size: 24px;">News</strong>  
 <ul>  
-  <li style="color: red; font-size: 20px; font-weight: bold;">March 25, 2025 - I will be joining CityUHK as a PhD student this fall. A new journey begins!</li>  
+  <li>March 25, 2025 - I will be joining CityUHK as a PhD student this fall. A new journey begins!</li>  
 </ul>
+
 
 
