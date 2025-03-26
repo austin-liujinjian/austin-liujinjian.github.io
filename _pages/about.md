@@ -30,13 +30,13 @@ I am currently seeking PhD/MPhil positions with scholarship starting in Fall 202
 -->
 
 You can find my [CV](../assets/Curriculum Vitae-JJL.pdf) here, and please feel free to drop me an email if you'd like to discuss anything or just have a chat. You can also explore the options in the navigation bar above for more information about me. Thank you!
-
+<!--
 <p style="color:blue">
 Email: austin.liujinjian@gmail.com
 </p>
+-->
+## Updates
 
-
-<p style="color:red; font-size: 20px; font-weight: bold;">
-New </p> I will join CityUHK as a PhD student this fall, a new journey begins
+* <p style="color:red; font-size: 20px; font-weight: bold;">New </p> I will join CityUHK as a PhD student this fall, a new journey begins!
 
 
