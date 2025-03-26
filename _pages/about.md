@@ -36,6 +36,5 @@ Email: austin.liujinjian@gmail.com
 </p>
 -->
 ## News
-
-<p style="color:red; font-size:20px; font-weight:bold;">Mar 25, 2025 - I will join CityUHK as a PhD student this fall; a new journey begins!</p>  
+*<p style="color:red; font-size:20px; font-weight:bold;">Mar 25, 2025 - I will join CityUHK as a PhD student this fall; a new journey begins!</p>  
 
