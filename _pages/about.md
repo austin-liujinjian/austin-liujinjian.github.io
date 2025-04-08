@@ -24,16 +24,13 @@ Email: austin.liujinjian@gmail.com
 </p>
 
 
-<!-- 
-
 <hr style="border: none; height: 1px; background-color: gray; margin: 10px 0;">
 
 <strong style="color: red; font-size: 22px;">News</strong>  
 <ul>  
-  <li>[03/2025] I will be joining CityUHK as a PhD student this fall. A new journey begins!</li>  
+  <li>[03/2025] I will be joining Department of EE, CityUHK as a PhD student this fall. A new journey begins!</li>  
 </ul>
 
---> 
 
 
 
