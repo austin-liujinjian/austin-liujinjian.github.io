@@ -5,6 +5,9 @@ permalink: /activity/
 author_profile: true
 ---
 
+Details coming soon!
+
+ <!--
 
 ## School of Computing Summer Workshop, National University of Singapore
 
@@ -21,5 +24,7 @@ Our group work culminated in the production of a programe paper and a poster, wh
 ![Photo with Prof. Anderson](photo_with_hugh.png){: width="400px" }  
 
 <span style="font-size: 16px; font-weight: bold;">Photo with guidence Prof. Anderson, in NUS summer workshop</span>
+
+--> 
 
 --> 
