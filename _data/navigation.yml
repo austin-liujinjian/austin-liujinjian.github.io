@@ -5,20 +5,20 @@ main:
 
   # - title: "Teaching"
   #   url: /teaching/    
-  - title: "Academic Experience"
-    url: /education/
+  #- title: "Academic Experience"
+   # url: /education/
     
-  - title: "Research Experience"
+  - title: "Research"
     url: /research/
 
   - title: "Awards & Honors"
     url: /awards/
     
-  - title: "Activities"
-    url: /activity/
-    
   - title: "Publications"
     url: /publications/
+
+  - title: "Misc"
+    url: /activity/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
