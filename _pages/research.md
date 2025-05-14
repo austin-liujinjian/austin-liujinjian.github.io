@@ -8,9 +8,7 @@ author_profile: true
 
 # Overview
 
-In July 2022, I was fortunately joining Professor Y.I. Wu's research team, and led the 2022-2023 university-level innovation project "Binaural Sound Source Localization Research," which was rated "Good"(Top 25%) in the end.
-
-Since November 2022, under the guidance of Prof. Y.I. Wu and Prof. Kainam Wong, I have primarily participated in the following research projects:
+Since November 2022, I have primarily participated in the following research projects:
 
 * <span style="font-size: 16px; font-weight: bold;">Range-Direction Beamforming for Wireless Power Transfer</span>
 
