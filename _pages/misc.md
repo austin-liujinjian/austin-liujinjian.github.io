@@ -1,13 +1,15 @@
 ---
 layout: archive
 title: ""
-permalink: /activity/
+permalink: /misc/
 author_profile: true
 ---
 
 Details coming soon!
 
- <!--
+
+
+<!--...
 
 ## School of Computing Summer Workshop, National University of Singapore
 
