@@ -12,12 +12,9 @@ redirect_from:
 Hi, welcome to my homepage!
 
   
-I'm Jinjian LIU(<font face="楷体">刘劲见</font>), born and grew up in Chengdu, China. I am currently a final-year undergraduate student from School of Computer Science at Sichuan University. I will do my PhD in City University of Hong Kong, Hong Kong SAR, under the supervision of [Prof.Xianghao Yu](https://www.ee.cityu.edu.hk/~alexyu/index.html)
+I'm Jinjian LIU(<font face="楷体">刘劲见</font>), born and grew up in Chengdu, China. I am currently a final-year undergraduate student from School of Computer Science at Sichuan University, under the guidance of [Prof. Yue Ivan Wu](https://scholar.google.com/citations?user=3hAyJWwAAAAJ&hl=en&oi=ao), and have had the privilege of working with and being guidenced by [Prof. Kainam Thomas Wong](https://scholar.google.com/citations?user=kCs2aSQAAAAJ&view_op=list_works&sortby=pubdate).  I will do my PhD in City University of Hong Kong, Hong Kong SAR, under the supervision of [Prof.Xianghao Yu](https://www.ee.cityu.edu.hk/~alexyu/index.html)
 
-Since 2022, I have been advised by [SMIEEE, Prof. Yue Ivan Wu](https://scholar.google.com/citations?user=3hAyJWwAAAAJ&hl=en&oi=ao) from College of Electronics and Information Engineering, Sichuan University, and have had the privilege of working with and being guidenced by [SMIEEE, Prof. Kainam Thomas Wong](https://scholar.google.com/citations?user=kCs2aSQAAAAJ&view_op=list_works&sortby=pubdate). 
-
-
-You can find my [curriculum vitae](../assets/CV-2025-05-14-JJL.pdf) here, and please feel free to drop me an email if you'd like to discuss anything or just have a chat. You can also explore the options in the navigation bar above for more information about me. Thank you!
+You can download my [curriculum vitae](../assets/CV-2025-05-14-JJL.pdf) here, and please feel free to drop me an email if you'd like to discuss anything or just have a chat. You can also explore the options in the navigation bar above for more information about me. Thank you!
 
 <p style="color:blue">
 Email: austin.liujinjian@gmail.com
