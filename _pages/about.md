@@ -25,6 +25,7 @@ Email: austin.liujinjian@gmail.com
 
 <strong style="color: red; font-size: 22px;">News</strong>  
 <ul>  
+  <li>[05/2025] Honored to be selected as one of the 8 out of 210 candidates for the "Star of the College" award.
   <li>[05/2025] One paper was accepted by <i>Applied Acoustics</i>!</li>
   <li>[03/2025] I will be joining Department of EE, CityUHK as a PhD student this fall. A new journey begins!</li>  
 </ul>
