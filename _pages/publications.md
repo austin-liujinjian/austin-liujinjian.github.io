@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
+
 1.	**Jinjian Liu**, Kainam Thomas Wong, and Yue Ivan Wu, “Cylindrical Array Design to Optimize Polar-Azimuthal Direction-Finding Resolution”, Applied Acoustics, vol. 239, November 2025.
 
 
