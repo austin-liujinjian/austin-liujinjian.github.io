@@ -5,18 +5,42 @@ permalink: /misc/
 author_profile: true
 ---
 
+<div style="font-family: 'Times New Roman', serif; font-size: 16px; line-height: 1.6;">
+    <p>
+        Beyond my research, I often spend my free time practicing 
+        <span style="font-family: KaiTi, serif;">Chinese calligraphy</span> 📜. 
+        I am particularly fond of the works of <span style="font-family: KaiTi, serif;">文徵明</span> (Wen Zhengming) 
+        and <span style="font-family: KaiTi, serif;">董其昌</span> (Dong Qichang).
+    </p>
 
-Beyond my research, I often spend my free time practicing Chinese calligraphy (mainly copying classical models) as a way to balance and enrich my daily life. I am particularly fond of the works of Wen Zhengming（文徵明） and Dong Qichang（董其昌）.  
+    <p>
+        In addition, I have long held a deep passion for reading, with wide-ranging interests spanning literature, 
+        history, and especially philosophy. This includes both Chinese philosophy, such as the 
+        <span style="font-family: KaiTi, serif;">四书</span> (Four Books) and 
+        <span style="font-family: KaiTi, serif;">五经</span> (Five Classics), as well as Western philosophy. 
+        I even spent some time learning a bit of Latin, though only at a very beginner level.
+    </p>
 
-In addition, I have long held a deep passion for reading, with wide-ranging interests spanning literature, history, and especially philosophy. This includes both Chinese philosophy, such as the Four Books (四书) and Five Classics (五经), as well as Western philosophy. Inspired by this passion, I even spent some time learning a bit of Latin, though only at a very beginner level. I am truly grateful to the Sichuan University Library for its rich and diverse collection, which greatly supported my intellectual explorations — during my undergraduate years alone, I borrowed over 360 books.
+    <p>
+        Recently, I’ve become especially passionate about studying the 
+        <span style="font-family: KaiTi, serif;">易经</span> (*I Ching*) and immersing myself in Chinese history — 
+        particularly the Song Dynasty and the Southern Ming period. I have long admired the life and writings of 
+        <span style="font-family: KaiTi, serif;">文天祥</span> (Wen Tianxiang), whose unwavering spirit continues to inspire me.
+    </p>
 
-I am also pleased to share that during my undergraduate studies, I served as the associate leader of the university’s philosophy club. I had the privilege of organizing and leading multiple reading groups and themed discussions. Engaging in stimulating exchanges of ideas with students from diverse academic backgrounds, all united by a shared pursuit of wisdom and love, has been truly exciting and memorable!
+    <p>
+        I would be truly thrilled to connect with anyone who shares these interests!
+    </p>
 
-Recently, I’ve become especially passionate about studying the I Ching (易经) and immersing myself in Chinese history — particularly the Song Dynasty and the Southern Ming period. I have long admired the life and writings of Wen Tianxiang (文天祥), whose unwavering spirit continues to inspire me. I would be truly thrilled to connect with anyone who shares these interests!
-
-Lastly, I enjoy writing occasional essays and poems in my spare time. I’ve gathered a small selection of these (humble and unpolished) pieces, which I’m happy to share below ~
-
-[My Writings and Poems (Google Drive Link)](https://drive.google.com/drive/folders/1iGcyKl5uJwAhn9umMcvQY0Gch25MbL3Z?usp=sharing)
+    <p>
+        Lastly, I enjoy writing occasional essays and poems in my spare time. 
+        I’ve gathered a small selection of these (humble and unpolished) pieces, which I’m happy to share below ~ 
+        👉 <a href="https://drive.google.com/drive/folders/1iGcyKl5uJwAhn9umMcvQY0Gch25MbL3Z?usp=sharing" 
+        target="_blank" style="font-weight: bold; text-decoration: none; color: #3366cc;">
+        My Writings and Poems (Google Drive Link)
+        </a>
+    </p>
+</div>
 
 
 
