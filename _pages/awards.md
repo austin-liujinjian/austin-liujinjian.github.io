@@ -6,18 +6,14 @@ author_profile: true
 ---
 
 
+* Candidate of the "Star of the College", 2025 *(8/210)*
+* Excellent graduate in Sichuan University, 2025 *(top 5%)*
+* Elected as the top 8 student using library resources over *All* Engineering schools of Sichuan University, 2024
+* Excellent student in Sichuan University, 2023 & 2024 *(top 5%)*
+* "Zili-Zhidong" Comprehensive Scholarship, 2023 *(sole winner of the college)*
+* Comprehensive Scholarship of Sichuan University, 2022 & 2023 *(top 10%)*
+* Excellent student leader in Sichuan University, 2022 *(top 5%)*
 
-<div style="font-family: 'Times New Roman', serif; font-size: 20px; line-height: 1.8;">
-    <ul>
-        <li><strong>Candidate of the "Star of the College"</strong>, 2025 <em>(8 / 210)</em></li>
-        <li><strong>Excellent Graduate</strong> at Sichuan University, 2025 <em>(top 5%)</em></li>
-        <li><strong>Elected as Top 8 Student Using Library Resources</strong> across <em>all</em> Engineering Schools of Sichuan University, 2024</li>
-        <li><strong>Excellent Student</strong> at Sichuan University, 2023 & 2024 <em>(top 5%)</em></li>
-        <li><strong>"Zili-Zhidong" Comprehensive Scholarship</strong>, 2023 <em>(sole winner of the college)</em></li>
-        <li><strong>Comprehensive Scholarship</strong> of Sichuan University, 2022 & 2023 <em>(top 10%)</em></li>
-        <li><strong>Excellent Student Leader</strong> at Sichuan University, 2022 <em>(top 5%)</em></li>
-    </ul>
-</div>
 
 
 
