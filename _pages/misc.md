@@ -5,7 +5,7 @@ permalink: /misc/
 author_profile: true
 ---
 
-<div style="font-family: 'Times New Roman', serif; font-size: 16px; line-height: 1.6;">
+<div style="font-family: 'Times New Roman', serif; font-size: 20px; line-height: 1.6;">
     <p>
         Beyond my research, I often spend my free time practicing 
         <span style="font-family: KaiTi, serif;">Chinese calligraphy</span> 📜. 
