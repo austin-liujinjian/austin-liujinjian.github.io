@@ -7,7 +7,7 @@ author_profile: true
 
 
 
-<div style="font-family: 'Times New Roman', serif; font-size: 16px; line-height: 1.8;">
+<div style="font-family: 'Times New Roman', serif; font-size: 20px; line-height: 1.8;">
     <ul>
         <li><strong>Candidate of the "Star of the College"</strong>, 2025 <em>(8 / 210)</em></li>
         <li><strong>Excellent Graduate</strong> at Sichuan University, 2025 <em>(top 5%)</em></li>
