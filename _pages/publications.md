@@ -13,5 +13,3 @@ author_profile: true
 
 
 3.	**Jinjian Liu**, Hasan Saeed Mir, Kainam Thomas Wong, and Yue Ivan Wu, “Range-Direction Transmit Beamforming for Wireless Power Transfer”, currently under preparation.
-</div>
-
