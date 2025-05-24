@@ -37,7 +37,7 @@ author_profile: true
         I’ve gathered a small selection of these (humble and unpolished) pieces, which I’m happy to share below ~ 
         👉 <a href="https://drive.google.com/drive/folders/1iGcyKl5uJwAhn9umMcvQY0Gch25MbL3Z?usp=sharing" 
         target="_blank" style="font-weight: bold; text-decoration: none; color: #3366cc;">
-        My Writings and Poems (Google Drive Link)
+        Some of my Writings and Poems
         </a>
     </p>
 </div>
