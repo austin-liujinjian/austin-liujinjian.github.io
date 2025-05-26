@@ -21,12 +21,14 @@ author_profile: true
         I once spent some time learning a bit of Latin, though only at a very beginner level.
     </p>
 
-    <p>
-        Recently, I’ve become especially passionate about studying the 
-        <span style="font-family: KaiTi, serif;">易经</span> (I Ching) and immersing myself in Chinese history — 
-        particularly the Song Dynasty and the Southern Ming period. I have long admired the life and writings of 
-        <span style="font-family: KaiTi, serif;">文天祥</span> (Wen Tianxiang) — his life and spirit have long stirred my soul, awakening in me a deep passion for Love, Wisdom, Transcendence, and a faith in "<span style="font-family: KaiTi, serif;">天</span>", the One beyond the self.
-    </p>
+<p>
+    Recently, I’ve become especially passionate about studying the 
+    <span style="font-family: KaiTi, serif;">易经</span> (I Ching) and immersing myself in Chinese history — 
+    particularly the Song Dynasty and the Southern Ming period. I deeply admire the life and writings of 
+    <span style="font-family: KaiTi, serif;">文天祥</span> (Wen Tianxiang); his spirit stirs my soul, awakening in me a passion for Love, Wisdom, Transcendence, and a faith in 
+    "<span style="font-family: KaiTi, serif;">天</span>", the One beyond the self.
+</p>
+
 
     <p>
         I would be truly thrilled to connect with anyone who shares these interests!
