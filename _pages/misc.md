@@ -28,7 +28,7 @@ author_profile: true
     <span style="font-family: KaiTi, serif;">文天祥</span> (Wen Tianxiang); his spirit stirs my soul, awakening in me a passion for Love, Wisdom, Transcendence, and a faith in 
     "<span style="font-family: KaiTi, serif;">天</span>", the One beyond the self.
 </p>
-
+ 
 
     <p>
         I would be truly thrilled to connect with anyone who shares these interests!
