@@ -15,17 +15,17 @@ author_profile: true
 
     <p>
         In addition, I have long held a deep passion for reading, with wide-ranging interests spanning literature, 
-        history, and especially philosophy. This includes both Chinese philosophy, such as the 
+        history, and especially philosophy. This includes both traditional Chinese philosophy, such as the 
         <span style="font-family: KaiTi, serif;">四书</span> (Four Books) and 
         <span style="font-family: KaiTi, serif;">五经</span> (Five Classics), as well as Western philosophy. 
-        I even spent some time learning a bit of Latin, though only at a very beginner level.
+        I once spent some time learning a bit of Latin, though only at a very beginner level.
     </p>
 
     <p>
         Recently, I’ve become especially passionate about studying the 
-        <span style="font-family: KaiTi, serif;">易经</span> (*I Ching*) and immersing myself in Chinese history — 
+        <span style="font-family: KaiTi, serif;">易经</span> (I Ching) and immersing myself in Chinese history — 
         particularly the Song Dynasty and the Southern Ming period. I have long admired the life and writings of 
-        <span style="font-family: KaiTi, serif;">文天祥</span> (Wen Tianxiang), whose unwavering spirit continues to inspire me.
+        <span style="font-family: KaiTi, serif;">文天祥</span> (Wen Tianxiang) — his life and spirit have long stirred my soul, awakening in me a deep passion for Love, Wisdom, Transcendence, and a faith in "<span style="font-family: KaiTi, serif;">天</span>", the One beyond the self.
     </p>
 
     <p>
@@ -33,8 +33,8 @@ author_profile: true
     </p>
 
     <p>
-        Lastly, I enjoy writing occasional essays and poems in my spare time. 
-        I’ve gathered a small selection of these (humble and unpolished) pieces, which I’m happy to share below ~ 
+        Lastly, I enjoy writing something, like essays and poems in my spare time. 
+        I’ve gathered a small selection of these pieces, which I’m happy to share below ~ 
         👉 <a href="https://drive.google.com/drive/folders/1iGcyKl5uJwAhn9umMcvQY0Gch25MbL3Z?usp=sharing" 
         target="_blank" style="font-weight: bold; text-decoration: none; color: #3366cc;">
         Some of my Writings
