@@ -10,7 +10,7 @@ author_profile: true
         During my spare time, I often spend my free time practicing 
         <span style="font-family: KaiTi, serif;">Chinese calligraphy</span> 📜. 
         I am particularly like the works of <span style="font-family: KaiTi, serif;">文徵明</span> (Wen Zhengming) 
-        and <span style="font-family: KaiTi, serif;">董其昌</span> (Dong Qichang), from Ming Dinasty.
+        and <span style="font-family: KaiTi, serif;">董其昌</span> (Dong Qichang), from Ming Dynasty.
     </p>
 
     <p>
