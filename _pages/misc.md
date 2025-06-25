@@ -7,26 +7,22 @@ author_profile: true
 
 <div style="font-family: 'Times New Roman', serif; font-size: 20px; line-height: 1.6;">
     <p>
-        Beyond my research, I often spend my free time practicing 
+        During my spare time, I often spend my free time practicing 
         <span style="font-family: KaiTi, serif;">Chinese calligraphy</span> 📜. 
-        I am particularly fond of the works of <span style="font-family: KaiTi, serif;">文徵明</span> (Wen Zhengming) 
-        and <span style="font-family: KaiTi, serif;">董其昌</span> (Dong Qichang).
+        I am particularly like the works of <span style="font-family: KaiTi, serif;">文徵明</span> (Wen Zhengming) 
+        and <span style="font-family: KaiTi, serif;">董其昌</span> (Dong Qichang), from Ming Dinasty.
     </p>
 
     <p>
         In addition, I have long held a deep passion for reading, with wide-ranging interests spanning literature, 
-        history, and especially philosophy. This includes both traditional Chinese philosophy, such as the 
+        history, and especially philosophy. Especially traditional Chinese philosophy, such as the 
         <span style="font-family: KaiTi, serif;">四书</span> (Four Books) and 
-        <span style="font-family: KaiTi, serif;">五经</span> (Five Classics), as well as Western philosophy. 
-        I once spent some time learning a bit of Latin, though only at a very beginner level.
+        <span style="font-family: KaiTi, serif;">五经</span> (Five Classics), as well as Western philosophy.
     </p>
 
 <p>
     Recently, I’ve become especially passionate about studying the 
-    <span style="font-family: KaiTi, serif;">易经</span> (I Ching) and immersing myself in Chinese history — 
-    particularly the Song Dynasty and the Southern Ming period. I deeply admire the life and writings of 
-    <span style="font-family: KaiTi, serif;">文天祥</span> (Wen Tianxiang); his spirit stirs my soul, awakening in me a passion for Love, Wisdom, Transcendence, and a faith in 
-    "<span style="font-family: KaiTi, serif;">天</span>", the One beyond the self.
+    <span style="font-family: KaiTi, serif;">易经</span> (I Ching) and the history of Song Dynasty and the Southern Ming period. 
 </p>
  
 
