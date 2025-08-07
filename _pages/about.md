@@ -7,9 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-<br>
 # Welcome
-
+<br>
 Hi, welcome to my homepage!
 
 I'm Jinjian LIU(<font face="楷体">刘劲见</font>), born and grew up in Chengdu, China. I am currently a final-year undergraduate student from College of Computer Science at Sichuan University, under the guidance of [Prof. Yue Ivan Wu](https://scholar.google.com/citations?user=3hAyJWwAAAAJ&hl=en&oi=ao), and have had the privilege of working with and being guidenced by [Prof. Kainam Thomas Wong](https://scholar.google.com/citations?user=kCs2aSQAAAAJ&view_op=list_works&sortby=pubdate).  I will do my PhD in City University of Hong Kong, Hong Kong SAR, under the supervision of [Prof. Xianghao Yu](https://www.ee.cityu.edu.hk/~alexyu/index.html)
