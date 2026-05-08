@@ -18,7 +18,7 @@ Before joining CityUHK, I received my B.Eng. degree from Sichuan University, Che
 You can download my [curriculum vitae](https://drive.google.com/file/d/1xEVJYZtxUeyE9xU4h2-Ij3HN5nqLcZvq/view?usp=sharing) here, and please feel free to drop me an email if you'd like to discuss anything or just have a chat. You can also explore the options in the navigation bar above for more information about me. Thank you!
 
 <p style="color:blue">
-Email: jinjian.liu@my.cityu.edu.hk;   austin.liujinjian@gmail.com
+Email: jinjian.liu@my.cityu.edu.hk;&emsp;&emsp;&emsp;austin.liujinjian@gmail.com
 </p>
 
 
