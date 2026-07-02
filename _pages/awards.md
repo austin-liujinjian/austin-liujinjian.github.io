@@ -22,8 +22,6 @@ author_profile: true
   font-weight: 700;
   margin-top: 0.4rem;
   margin-bottom: 1.6rem;
-  padding-left: 1rem;
-  border-left: 5px solid #2f6fed;
   padding-bottom: 0.55rem;
   border-bottom: 1px solid #e5e7eb;
   color: #1f2937;
