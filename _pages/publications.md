@@ -42,7 +42,7 @@ author_profile: true
 .pub-label {
   flex: 0 0 2.4rem;
   font-weight: 700;
-  color: #1f77b4;
+  color: #0056b3;
 }
 
 .pub-text {
@@ -103,7 +103,9 @@ author_profile: true
       <p class="pub-text">
         <strong>Jinjian Liu</strong>, Xianxin Song, and Xianghao Yu,
         “<span class="pub-title">Optimal Movable Antenna Placement for Near-Field Wireless Sensing</span>,”
-        IEEE Int. Mediterranean Conf. Commun. Netw. (MeditCom), Cagliari, Italy, July 2026.
+        IEEE Int. Mediterranean Conf. Commun. Netw. (MeditCom), Cagliari, Italy, July 2026. 
+        <a class="pub-link" href="https://arxiv.org/abs/2603.10383" target="_blank">[arXiv]</a>
+        <a class="pub-link" href="https://drive.google.com/file/d/1e6TBl1hCRwsKhthsE4mNf5lCD8Wm5oa1/view?usp=sharing" target="_blank">[slide]</a>
       </p>
     </div>
 
