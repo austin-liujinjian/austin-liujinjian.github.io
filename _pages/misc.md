@@ -114,8 +114,7 @@ author_profile: true
       <span class="misc-dot">•</span>
       <div class="misc-content">
         <p class="misc-text">
-          In my spare time, I enjoy practicing
-          <span class="misc-cn misc-highlight">Chinese calligraphy</span> 📜.
+          In my spare time, I enjoy practicing Chinese calligraphy.
           I particularly admire the works of
           <span class="misc-cn">文徵明</span> (Wen Zhengming) and
           <span class="misc-cn">董其昌</span> (Dong Qichang) from the Ming dynasty.
@@ -149,8 +148,6 @@ author_profile: true
 
   </div>
 
-  <div class="misc-section-title">Writings</div>
-
   <div class="misc-block">
     <p class="misc-text">
       I also enjoy writing essays and poems in my spare time. I have gathered a small
@@ -162,9 +159,6 @@ author_profile: true
       </a>
     </p>
   </div>
-
-  <div class="misc-section-title">Get in Touch</div>
-
   <div class="misc-block">
     <p class="misc-text">
       I would be truly delighted to connect with anyone who shares these interests.
