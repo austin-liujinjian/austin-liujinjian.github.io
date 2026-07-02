@@ -5,73 +5,170 @@ permalink: /misc/
 author_profile: true
 ---
 
-<div style="font-family: 'Times New Roman', serif; font-size: 20px; line-height: 1.6;">
-    <p>
-        During my spare time, I often spend my free time practicing 
-        <span style="font-family: KaiTi, serif;">Chinese calligraphy</span> 📜. 
-        I am particularly like the works of <span style="font-family: KaiTi, serif;">文徵明</span> (Wen Zhengming) 
-        and <span style="font-family: KaiTi, serif;">董其昌</span> (Dong Qichang), from Ming Dynasty.
-    </p>
+<style>
+.misc-page,
+.misc-page * {
+  font-family: Calibri, "Helvetica Neue", Arial, sans-serif;
+}
 
-    <p>
-        In addition, I have long held a deep passion for reading, with wide-ranging interests spanning literature, 
-        history, and especially philosophy. Especially traditional Chinese philosophy, such as the 
-        <span style="font-family: KaiTi, serif;">四书</span> (Four Books) and 
-        <span style="font-family: KaiTi, serif;">五经</span> (Five Classics), as well as Western philosophy.
-    </p>
+.misc-page {
+  font-size: 17px;
+  line-height: 1.65;
+  color: #222;
+}
 
-<p>
-    Recently, I’ve become especially passionate about studying the 
-    <span style="font-family: KaiTi, serif;">易经</span> (I Ching) and the history of Song Dynasty and the Southern Ming period. 
-</p>
- 
+.misc-main-title {
+  font-size: 1.65rem;
+  font-weight: 700;
+  margin-top: 0.4rem;
+  margin-bottom: 1.4rem;
+  padding-bottom: 0.55rem;
+  border-bottom: 1px solid #e5e7eb;
+  color: #1f2937;
+}
 
-    <p>
-        I would be truly thrilled to connect with anyone who shares these interests!
-    </p>
+.misc-section-title {
+  font-size: 1.28rem;
+  font-weight: 700;
+  margin-top: 1.7rem;
+  margin-bottom: 0.75rem;
+  color: #374151;
+}
 
-    <p>
-        Lastly, I enjoy writing something, like essays and poems in my spare time. 
-        I’ve gathered a small selection of these pieces, which I’m happy to share below ~ 
-        👉 <a href="https://drive.google.com/drive/folders/1iGcyKl5uJwAhn9umMcvQY0Gch25MbL3Z?usp=sharing" 
-        target="_blank" style="font-weight: bold; text-decoration: none; color: #3366cc;">
-        Some of my Writings
-        </a>
+.misc-block {
+  margin-bottom: 1.2rem;
+}
+
+.misc-text {
+  margin: 0 0 0.85rem 0;
+}
+
+.misc-highlight {
+  font-weight: 700;
+  color: #0056b3;
+}
+
+.misc-cn {
+  font-family: KaiTi, "STKaiti", "Kaiti SC", serif;
+}
+
+.misc-link {
+  color: #0056b3;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.misc-link:hover {
+  text-decoration: underline;
+}
+
+.misc-note {
+  color: #6b7280;
+}
+
+.misc-list {
+  margin: 0;
+  padding: 0;
+}
+
+.misc-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.8rem;
+  padding: 0.65rem 0;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.misc-item:last-child {
+  border-bottom: none;
+}
+
+.misc-dot {
+  flex: 0 0 auto;
+  color: #2f6fed;
+  font-size: 1.35rem;
+  line-height: 1.25;
+  margin-top: 0.08rem;
+}
+
+.misc-content {
+  flex: 1;
+}
+
+@media screen and (max-width: 600px) {
+  .misc-page {
+    font-size: 16px;
+  }
+}
+</style>
+
+<div class="misc-page">
+
+  <div class="misc-main-title">Miscellaneous</div>
+
+  <div class="misc-section-title">Interests</div>
+
+  <div class="misc-list">
+
+    <div class="misc-item">
+      <span class="misc-dot">•</span>
+      <div class="misc-content">
+        <p class="misc-text">
+          In my spare time, I enjoy practicing
+          <span class="misc-cn misc-highlight">Chinese calligraphy</span> 📜.
+          I particularly admire the works of
+          <span class="misc-cn">文徵明</span> (Wen Zhengming) and
+          <span class="misc-cn">董其昌</span> (Dong Qichang) from the Ming dynasty.
+        </p>
+      </div>
+    </div>
+
+    <div class="misc-item">
+      <span class="misc-dot">•</span>
+      <div class="misc-content">
+        <p class="misc-text">
+          I have long held a deep passion for reading, with wide-ranging interests in
+          literature, history, and especially philosophy. My interests include traditional
+          Chinese philosophy, such as the
+          <span class="misc-cn">四书</span> (Four Books) and
+          <span class="misc-cn">五经</span> (Five Classics), as well as Western philosophy.
+        </p>
+      </div>
+    </div>
+
+    <div class="misc-item">
+      <span class="misc-dot">•</span>
+      <div class="misc-content">
+        <p class="misc-text">
+          Recently, I have become especially interested in studying the
+          <span class="misc-cn">易经</span> (I Ching), as well as the history of the Song dynasty
+          and the Southern Ming period.
+        </p>
+      </div>
+    </div>
+
+  </div>
+
+  <div class="misc-section-title">Writings</div>
+
+  <div class="misc-block">
+    <p class="misc-text">
+      I also enjoy writing essays and poems in my spare time. I have gathered a small
+      selection of these pieces and would be happy to share them here:
+      <a class="misc-link"
+         href="https://drive.google.com/drive/folders/1iGcyKl5uJwAhn9umMcvQY0Gch25MbL3Z?usp=sharing"
+         target="_blank">
+        [Some of my Writings]
+      </a>
     </p>
+  </div>
+
+  <div class="misc-section-title">Get in Touch</div>
+
+  <div class="misc-block">
+    <p class="misc-text">
+      I would be truly delighted to connect with anyone who shares these interests.
+    </p>
+  </div>
+
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--...
-
-## School of Computing Summer Workshop, National University of Singapore
-
-I had the privilege of being advised by Professor Hugh Anderson and collaborating with students from various universities from May to July. During this period, we focused on addressing the BREACK network attack and explored methods to prevent it.   
-
-Our group work culminated in the production of a programe paper and a poster, which can be found here: [paper](../assets/IABAS-2023-7-24-Group7.pdf)/[poster](../assets/SWS3011_07 _Poster.pdf).
-
-
-## Summer Camps
-
-* 2024.07.20-2024.07-24  School of Mathematics and Statistics, Xi'an Jiaotong University. (Excellent Camper)
-
---> 
-
-
-<!--...
-![Photo with Prof. Anderson](photo_with_hugh.png){: width="400px" }  
-
-<span style="font-size: 16px; font-weight: bold;">Photo with guidence Prof. Anderson, in NUS summer workshop</span>
-
---> 
-
