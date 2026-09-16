@@ -32,7 +32,6 @@ Email: jinjian.liu@my.cityu.edu.hk;&emsp;&emsp;&emsp;austin.liujinjian@gmail.com
   <li>[04/2026] One paper was accepted by <i>IEEE MeditCom</i>, available on <a href="https://arxiv.org/abs/2603.10383">arXiv</a>.</li>
   <li>[05/2025] One paper was accepted by <i>Applied Acoustics</i>!</li>
   <li>[03/2025] I will be joining Department of EE, CityUHK as a PhD student this fall. A new journey begins!</li>  
-</ul>
 
 
 
