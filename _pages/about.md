@@ -11,7 +11,7 @@ redirect_from:
 <br>
 Hi, welcome to my homepage!
 
-I'm Jinjian Liu(<font face="楷体">刘劲见</font>), currently a first-year Ph.D. student in Department of Electrical Engineering at City University of Hong Kong, Hong Kong SAR, under the supervision of [Prof. Xianghao Yu](https://www.ee.cityu.edu.hk/~alexyu/index.html).
+I'm Jinjian Liu(<font face="楷体">刘劲见</font>), currently a 2nd-year Ph.D. candidate in Department of Electrical Engineering at City University of Hong Kong, Hong Kong SAR, under the supervision of [Prof. Xianghao Yu](https://www.ee.cityu.edu.hk/~alexyu/index.html).
 
 Before joining CityUHK, I received my B.Eng. degree from Sichuan University, Chengdu, China, in 2025. In my undergraduate years, I had the privilege of being guidanced by [Prof. Yue Ivan Wu](https://scholar.google.com/citations?user=3hAyJWwAAAAJ&hl=en&oi=ao) and [Prof. Kainam Thomas Wong](https://scholar.google.com/citations?user=kCs2aSQAAAAJ&hl=en). 
 
@@ -26,6 +26,7 @@ Email: jinjian.liu@my.cityu.edu.hk;&emsp;&emsp;&emsp;austin.liujinjian@gmail.com
 
 <strong style="color: red; font-size: 22px;">News</strong>  
 <ul>  
+  <li>[09/2026] One paper was submitted to  <i> IEEE Trans. Wireless Commun.</i>!</li>
   <li>[07/2026] I will serve as the Session Chair (S19-Localization, Positioning and Radio Sensing) at <i>IEEE MeditCom</i>, see you in Cagliari!
   <li>[05/2026] I was awarded the Young Professional Travel Grant for <i>IEEE MeditCom</i>.
   <li>[04/2026] One paper was accepted by <i>IEEE MeditCom</i>, available on <a href="https://arxiv.org/abs/2603.10383">arXiv</a>.</li>
