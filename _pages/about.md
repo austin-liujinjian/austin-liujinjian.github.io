@@ -26,7 +26,7 @@ Email: jinjian.liu@my.cityu.edu.hk;&emsp;&emsp;&emsp;austin.liujinjian@gmail.com
 
 <strong style="color: red; font-size: 22px;">News</strong>  
 <ul>  
-  <li>[09/2026] One paper was submitted to  <i> IEEE Trans. Wireless Commun.</i>, available on <a href="https://arxiv.org/abs/2609.18003">arXiv</a>.</li></li>
+  <li>[09/2026] One paper was submitted to  <i> IEEE Trans. Wireless Commun.</i>, available on <a href="https://arxiv.org/abs/2609.18003">arXiv</a>.</li>
   <li>[07/2026] I will serve as the Session Chair (S19-Localization, Positioning and Radio Sensing) at <i>IEEE MeditCom</i>, see you in Cagliari!</li>
   <li>[05/2026] I was awarded the Young Professional Travel Grant for <i>IEEE MeditCom</i>.</li>
   <li>[04/2026] One paper was accepted by <i>IEEE MeditCom</i>, available on <a href="https://arxiv.org/abs/2603.10383">arXiv</a>.</li>
