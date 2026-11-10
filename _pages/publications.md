@@ -64,6 +64,16 @@ author_profile: true
 
   <div class="pub-list">
 
+     <div class="pub-item">
+      <span class="pub-label">J1.</span>
+      <p class="pub-text">
+        <strong>Jinjian Liu</strong>, Xianxin Song, and Xianghao Yu,
+        “<span class="pub-title">Antenna Placement for Monostatic Near-Field Wireless Sensing</span>,” submitted to
+        <span class="pub-venue">IEEE Trans. Wireless Commun.</span>. 
+        <a class="pub-link" href="https://arxiv.org/abs/2609.18003" target="_blank">[arXiv]</a>
+      </p>
+    </div>
+    
     <div class="pub-item">
       <span class="pub-label">J1.</span>
       <p class="pub-text">
@@ -83,21 +93,22 @@ author_profile: true
       </p>
     </div>
 
-    <div class="pub-item">
-      <span class="pub-label">J3.</span>
-      <p class="pub-text">
-        <strong>Jinjian Liu</strong>, Hasan Saeed Mir, Kainam Thomas Wong, and Yue Ivan Wu,
-        “<span class="pub-title">Range-Direction Transmit Beamforming for Wireless Power Transfer</span>,”
-        currently under preparation.
-      </p>
-    </div>
-
   </div>
 
   <div class="pub-section-title">Conference Papers</div>
 
   <div class="pub-list">
 
+    <div class="pub-item">
+      <span class="pub-label">C1.</span>
+      <p class="pub-text">
+        <strong>Jinjian Liu</strong>, Xianxin Song, and Xianghao Yu,
+        “<span class="pub-title">Movable Antenna-Enabled Near-Field Localization: A Moment-Based Approach</span>,” submitted to
+        IEEE Int. Conf. Commun. (ICC), Washington, DC, USA, June 2027
+        <a class="pub-link" href="https://arxiv.org/abs/2610.21191" target="_blank">[arXiv]</a>
+      </p>
+    </div>
+    
     <div class="pub-item">
       <span class="pub-label">C1.</span>
       <p class="pub-text">
