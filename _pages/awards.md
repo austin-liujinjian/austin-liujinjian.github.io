@@ -232,20 +232,37 @@ author_profile: true
   <div class="cv-section-title">Teaching</div>
 
   <div class="cv-list">
-
-    <div class="cv-item">
-      <span class="cv-dot">•</span>
-      <div class="cv-content">
-        <div class="cv-row">
-          <p class="cv-text">
-            <span class="cv-title">Teaching Assistant</span>,
-            EE3008 Principles of Communications
-          </p>
-          <span class="cv-date">Spring 2026</span>
-        </div>
-        <div class="cv-subtext">City University of Hong Kong</div>
-      </div>
+  
+    
+<!-- 原课程 -->
+<div class="cv-item">
+  <span class="cv-dot">•</span>
+  <div class="cv-content">
+    <div class="cv-row">
+      <p class="cv-text">
+        <span class="cv-title">Teaching Assistant</span>,
+        EE3008 Principles of Communications
+      </p>
+      <span class="cv-date">Spring 2026</span>
     </div>
+    <div class="cv-subtext">City University of Hong Kong</div>
+  </div>
+</div>
+
+<!-- 新增课程 -->
+<div class="cv-item">
+  <span class="cv-dot">•</span>
+  <div class="cv-content">
+    <div class="cv-row">
+      <p class="cv-text">
+        <span class="cv-title">Teaching Assistant</span>,
+        EE4221 Cloud Computing systems
+      </p>
+      <span class="cv-date">Fall 2026</span>
+    </div>
+    <div class="cv-subtext">City University of Hong Kong</div>
+  </div>
+</div>
 
   </div>
 
