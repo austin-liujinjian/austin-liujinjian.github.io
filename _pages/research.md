@@ -6,9 +6,9 @@ author_profile: true
 ---
 
 
-# Overview
+# Research in Undergraduate Period, in Sichuan University
 
-Since November 2022, I have primarily participated in the following research projects:
+From November 2022 to May 2025, I have primarily participated in the following research projects:
 
 * <span style="font-size: 16px; font-weight: bold;">Range-Direction Beamforming for Wireless Power Transfer</span>
 
