@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-# Research in Undergraduate Period
+# Research in UG Period
 
 From November 2022 to May 2025, I have primarily participated in the following research projects:
 
