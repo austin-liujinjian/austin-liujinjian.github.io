@@ -13,7 +13,7 @@ Hi, welcome to my homepage!
 
 I'm Jinjian Liu(<font face="楷体">刘劲见</font>), currently a Ph.D. candidate in Department of Electrical Engineering at City University of Hong Kong, Hong Kong SAR, under the supervision of [Prof. Xianghao Yu](https://www.ee.cityu.edu.hk/~alexyu/index.html).
 
-Before joining CityUHK, I received my B.Eng. degree from Sichuan University, Chengdu, China, in 2025. In my undergraduate years, I had the privilege of being guidanced by [Prof. Yue Ivan Wu](https://scholar.google.com/citations?user=3hAyJWwAAAAJ&hl=en&oi=ao) and [Prof. Kainam Thomas Wong](https://scholar.google.com/citations?user=kCs2aSQAAAAJ&hl=en). 
+Before joining CityUHK, I received my B.Eng. degree from Sichuan University, Chengdu, China, in 2025. In my undergraduate years, I had the privilege of being guidanced by [Prof. Yue Ivan Wu](https://scholar.google.com/citations?user=3hAyJWwAAAAJ&hl=en&oi=ao) and [Prof. Kainam Thomas Wong](https://ieeexplore.ieee.org/author/37278684000). 
 
 You can download my [curriculum vitae](https://drive.google.com/file/d/1BPmr4EejE1NY4QPqdmrllKpcbEmTLYgP/view?usp=sharing) here, and please feel free to drop me an email if you'd like to discuss anything or just have a chat. You can also explore the options in the navigation bar above for more information about me. Thank you!
 
